@@ -2,13 +2,13 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'PayuMoney Payment Acquirer',
+    'name': 'PayU',
     'category': 'Payment Acquirer',
-    'summary': 'Payment Acquirer: PayuMoney Implementation',
+    'summary': 'Payment Acquirer: PayU Implementation',
     'description': """
-    PayuMoney Payment Acquirer for India.
+    PayU for Europe.
 
-    PayUmoney payment gateway supports only INR currency.
+    PayU payment gateway supports in CZK currency.
     """,
     'depends': ['payment'],
     'data': [
